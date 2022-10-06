@@ -1,7 +1,6 @@
 ---
 title: "Basic Inferential Data Analysis on ToothGrowth Data"
-author: "Benedict Neo"
-date: "16/12/2020"
+author: "Rahul Saxena"
 output:
   pdf_document: default
   html_document: default
